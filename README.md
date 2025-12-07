@@ -17,7 +17,7 @@ Food JS یک کتابخانه سبک، سریع و قابل توسعه برای 
 
 ---
 
-### با NPM
+### با git
 
 ```bash
-npm install food-js
+git clone https://github.com/aliashouriam/food-js.git
